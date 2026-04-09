@@ -1,0 +1,26 @@
+[
+  {
+    "podcastName": "flow",
+    "episode": "ELIEZER DO VIDA INFINITA - Flow #566",
+    "videoId": "NilCYWz3Amv",
+    "categoria": ["viagem", "influenciadores"]
+  },
+  {
+    "pocastName": "flow",
+    "episode": "SGT NANTES + JORGE LORDELLO - Flow #584",
+    "videoId": "HUdTabCyFgE",
+    "categoria": "crimes"
+  },
+  {
+    "pocastName": "flow2",
+    "episode": "SGT NANTES + JORGE LORDELLO - Flow #584",
+    "videoId": "HUdTabCyFgE",
+    "categoria": "crimes2"
+  },
+  {
+    "pocastName": "venus",
+    "episode": "xuxa",
+    "videoId": "HUddwdwd",
+    "categoria": "humor"
+  }
+]
