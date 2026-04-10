@@ -6,21 +6,21 @@
     "categoria": ["viagem", "influenciadores"]
   },
   {
-    "pocastName": "flow",
+    "podcastName": "flow",
     "episode": "SGT NANTES + JORGE LORDELLO - Flow #584",
     "videoId": "HUdTabCyFgE",
-    "categoria": "crimes"
+    "categoria": ["crimes", "casos"]
   },
   {
-    "pocastName": "flow2",
+    "podcastName": "flow2",
     "episode": "SGT NANTES + JORGE LORDELLO - Flow #584",
     "videoId": "HUdTabCyFgE",
-    "categoria": "crimes2"
+    "categoria": ["crimes", "casos"]
   },
   {
-    "pocastName": "venus",
+    "podcastName": "venus",
     "episode": "xuxa",
     "videoId": "HUddwdwd",
-    "categoria": "humor"
+    "categoria": ["tv", "humor"]
   }
 ]
