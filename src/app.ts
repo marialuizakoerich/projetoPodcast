@@ -11,9 +11,8 @@ export const app = async (
   response: http.ServerResponse,
 ) => {
   //querystring
-  const [baseUrl, queryString] = request.url?.split("?") ?? ["", ""];
-  console.log(baseUrl);
-  console.log(queryString);
+  const baseUrl = request.url?.split("?")[0];
+
 
   //listar podcasts
   if (request.method == HttpMethod.GET && request.url === Routes.LIST) {
